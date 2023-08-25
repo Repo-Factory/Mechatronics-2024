@@ -26,7 +26,7 @@ namespace
         exit(EXIT_FAILURE);
     }
 }
-
++
 namespace
 {
     component_vector_ptr_t allocateComponentsVector()
